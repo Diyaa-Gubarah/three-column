@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?&family=Poppins&family=Roboto&display=swap');
+
+:root {
+    --primary-color: #ffffff;
+    --background-color: #ffffff;
+}
+
+
+
+
+html {
+    font-family: 'Roboto', 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+    background: var(--background-color);
+    font-size: 16px;
+
+}
+
+body {
+    font-size: clamp(1rem, 0.5rem + 1vw, 1.25rem);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px;
+    font: inherit
+}
+
+
+/* Style the scrollbar */
+::-webkit-scrollbar {
+    all:unset;
+
+}
+
+/* Style the thumb (the part that you drag) */
+::-webkit-scrollbar-thumb {
+    all:unset;
+
+}
+
+/* Style the thumb hover state */
+::-webkit-scrollbar-thumb:hover {
+    all:unset;
+}
+
+/* Style the scrollbar */
+scrollbar {
+    all: unset;
+}
+
+/* Style the thumb (the part that you drag) */
+scrollbar-thumb {
+    all:unset;
+}
+
+/* Style the thumb hover state */
+scrollbar-thumb:hover {
+   all:unset;
+}
