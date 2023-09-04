@@ -31,7 +31,7 @@ Styled-components have been used in this project to create reusable UI component
 To run this application, follow these steps:
 
 1. Clone the repository to your local machine:
-   `git clone https://github.com/your-username/your-project.git`
+   `git clone https://github.com/Diyaa-Gubarah/three-column.git`
 
 2. Install the project dependencies:
    `npm install`
