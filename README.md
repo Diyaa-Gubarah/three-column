@@ -2,6 +2,8 @@
 
 ## Project Goals
 
+![Application UI](./public/screenshout.jpg)
+
 The primary goals of this project include:
 
 - Goal 1: As a user I want to be able to type id or name of entity in Left search bar/right search bar .
